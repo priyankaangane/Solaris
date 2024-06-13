@@ -45,3 +45,4 @@ The hackathon provided invaluable insights into:
 
 This hackathon was just the beginning of Solaris's journey toward becoming a robust AI co-pilot, and I look forward to its future evolution and impact.
 
+![Web App img](https://github.com/priyankaangane/Solaris-AI-Copilot/assets/138959242/1ac1a079-b12e-403d-8419-5883478363da)
